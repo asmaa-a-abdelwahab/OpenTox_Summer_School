@@ -1,4 +1,4 @@
-# OpenTox Summer School - Asmaa Ali (Edelweiss Connect)
+# Asmaa Ali (Edelweiss Connect)
 
 #### Applications of Artificial Intelligence for enhancing chemical safety
 
@@ -14,6 +14,7 @@
 
 - [Introduction to Deep Learning ](https://github.com/dennishnf/intro-to-deep-learning)
 - [Deep Learning for Molecules and Materials Book](https://github.com/whitead/dmol-book/blob/main/README.md)
+- [Interpretable Machine Learning Book](https://christophm.github.io/interpretable-ml-book/)
 
 
 
