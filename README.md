@@ -1,6 +1,8 @@
-# Asmaa Ali (Edelweiss Connect)
+# Applications of Artificial Intelligence for Enhancing Chemical Safety
 
-- Applications of Artificial Intelligence for Enhancing Chemical Safety
+## Presenter
+
+Asmaa Ali (Edelweiss Connect)
 
 ## Content
 
