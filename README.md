@@ -1,6 +1,6 @@
-# OpenTox_Summer_School
+# OpenTox Summer School - Asmaa Ali (Edelweiss Connect)
 
-## Session: Asmaa Ali (Edelweiss Connect), “Applications of Artificial Intelligence for enhancing chemical safety"
+#### Applications of Artificial Intelligence for enhancing chemical safety
 
 ## Content
 
