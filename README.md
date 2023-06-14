@@ -16,7 +16,7 @@ In the modern era of abundant data, artificial intelligence (AI) has emerged as 
 ## Presentation
 
 
-## Practical Assignment
+## Practical Exercise (Google Colab)
 
 
 ## Recommended Resources
