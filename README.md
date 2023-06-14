@@ -18,6 +18,9 @@ In the modern era of abundant data, artificial intelligence (AI) has emerged as 
 
 ## Practical Exercise (Google Colab)
 
+- [Predicting Solubility with Neural Networks in TensorFlow](https://github.com/asmaa-a-abdelwahab/OpenTox_Summer_School/blob/main/Introduction_to_Deep_Learning.ipynb)
+- [Molecule Solubility using DeepChem](https://github.com/jurevito/molecule-solubility/blob/main/solubility.ipynb)
+
 
 ## Recommended Resources
 
