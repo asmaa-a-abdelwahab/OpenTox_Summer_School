@@ -10,7 +10,7 @@
 ## Practical Assignment
 
 
-## Other Resources
+## Recommended Resources
 
 - [Introduction to Deep Learning ](https://github.com/dennishnf/intro-to-deep-learning)
 - [Deep Learning for Molecules and Materials Book](https://github.com/whitead/dmol-book/blob/main/README.md)
