@@ -2,7 +2,7 @@
 
 ## Presenter
 
-Asmaa Ali (Edelweiss Connect)
+Asmaa Ali (Edelweiss Connect GmbH)
 
 
 ## Abstract
