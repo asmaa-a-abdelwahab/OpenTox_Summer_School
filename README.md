@@ -2,7 +2,7 @@
 
 ## Presenter
 
-Asmaa Ali (Edelweiss Connect GmbH)
+Asmaa Ali ( Research Data Scientist @ Edelweiss Connect GmbH)
 
 
 ## Abstract
