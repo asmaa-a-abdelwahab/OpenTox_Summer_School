@@ -7,7 +7,7 @@
 
 ## Abstract
 
-In the modern era of abundant data, artificial intelligence (AI) has emerged as a game-changer in the field of chemical risk assessment. This engaging talk aims to introduce participants to the captivating intersection of AI and chemical risk assessment. The sessions will provide an overview of both AI and chemical risk assessment, exploring the applications, benefits, and challenges associated with utilizing AI-driven approaches for risk assessment, hazard identification, exposure monitoring, and regulatory compliance. Notably, a practical case study will focus on the prediction of chemical solubility using neural networks—an essential element of risk assessment. By attending this summer school, participants will acquire a deeper understanding of AI's potential in transforming chemical risk assessment practices, contributing t
+In the modern era of abundant data, artificial intelligence (AI) has emerged as a game-changer in the field of chemical risk assessment. This engaging talk aims to introduce participants to the captivating intersection of AI and chemical risk assessment. The sessions will provide an overview of both AI and chemical risk assessment, exploring the applications, benefits, and challenges associated with utilizing AI-driven approaches for risk assessment, hazard identification, exposure monitoring, and regulatory compliance. Notably, a practical case study will focus on the prediction of chemical solubility using neural networks—an essential element of risk assessment. By attending this summer school, participants will acquire a deeper understanding of AI's potential in transforming chemical risk assessment practices, contributing to a safer world by harnessing the wealth of available data.
 
 
 ## Table of Content
