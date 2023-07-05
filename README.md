@@ -12,6 +12,15 @@ In the modern era of abundant data, artificial intelligence (AI) has emerged as 
 
 ## Table of Content
 
+- Chemical Risk Assessment (CRA)
+- Artificial Intelligence (AI)
+- Practical Case Study
+- Application of AI in CRA
+- Advantages & Disadvantages
+- Growth & Future of AI in CRA
+- Conclusion
+- Bibliography
+
 
 ## Presentation
 
