@@ -1,4 +1,4 @@
-# Applications of AI for Enhancing Chemical Risk Assessment
+# Recent Advances in the Applications of AI for Enhancing Chemical Risk Assessment
 
 ## Presenter Bio
 
@@ -7,10 +7,10 @@
 
 ## Abstract
 
-In the modern era of abundant data, artificial intelligence (AI) has emerged as a game-changer in the field of chemical risk assessment. This engaging talk aims to introduce participants to the captivating intersection of AI and chemical risk assessment. The sessions will provide an overview of both AI and chemical risk assessment, exploring the applications, benefits, and challenges associated with utilizing AI-driven approaches for risk assessment, hazard identification, exposure monitoring, and regulatory compliance. Notably, a practical case study will focus on the prediction of chemical solubility using neural networks—an essential element of risk assessment. By attending this summer school, participants will acquire a deeper understanding of AI's potential in transforming chemical risk assessment practices, contributing to a safer world by harnessing the wealth of available data.
+In the modern era of abundant data, recent advances in artificial intelligence (AI) have brought about significant transformations in the field of chemical risk assessment. This engaging talk will delve into the captivating intersection of AI and chemical risk assessment, with a specific focus on the latest developments from the past three years. Participants will be introduced to the fundamental concepts of AI and its applications in risk assessment, hazard identification, exposure monitoring, and regulatory compliance. Through an exploration of cutting-edge AI-driven approaches, attendees will gain insights into the applications, benefits, and challenges associated with these advanced techniques. A practical case study will highlight the prediction of chemical solubility using neural networks, demonstrating the practical implications of AI in risk assessment. By participating in this summer school, attendees will deepen their understanding of AI's potential to revolutionize chemical risk assessment practices, paving the way for a safer world by harnessing the vast wealth of available data.
 
 
-In this summer school talk, I will guide you through an exciting exercise of solubility prediction using deep learning. By exploring this practical case study, we will not only gain insights into the prediction of chemical solubility but also delve into the power of deep neural networks in outperforming traditional machine learning methods. Building deep neural networks has emerged as a key driver for the latest advancements in artificial intelligence (AI), and through this exercise, we will witness firsthand how these systems can revolutionize the field. Get ready to unlock the potential of deep learning and discover its transformative impact on AI.
+
 
 
 ## Table of Content
