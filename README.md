@@ -26,7 +26,7 @@ In the current era of increasing data abundance, advancements in artificial inte
 
 ## Presentation
 
-- [Presentation PDF]()
+- [Presentation PDF](https://github.com/asmaa-a-abdelwahab/OpenTox_Summer_School/blob/main/Recent%20Advances%20in%20Applications%20of%20AI%20for%20Enhancing%20CRA.pdf)
 
 ## Practical Exercise (Google Colab)
 
