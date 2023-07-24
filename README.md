@@ -32,6 +32,8 @@ In the current era of increasing data abundance, advancements in artificial inte
 
 - [Practical Case Study on LLMs - OpenAI Vs ChemCrow](https://colab.research.google.com/drive/1HcQ9iKm_71h04MiBG3gs_1br7nCHR7xd?usp=sharing)
 
+- [Plan Compounds Synthetisation] (https://github.com/ur-whitelab/chemcrow-runs/blob/main/tasks/01_safinamide.ipynb)
+- [Building Model using ChemCrow] (https://github.com/ur-whitelab/chemcrow-runs/blob/main/chromaphore-rf-369.ipynb)
 
 ## Recommended Resources
 
