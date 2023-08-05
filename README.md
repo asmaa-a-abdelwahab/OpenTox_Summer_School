@@ -37,6 +37,7 @@ In the current era of increasing data abundance, advancements in artificial inte
 
 ## Recommended Resources
 
+- [Welcome to Colaboratory Tutorial for Begibbers](https://colab.research.google.com/?utm_source=scs-index)
 - [Introduction to Deep Learning ](https://github.com/dennishnf/intro-to-deep-learning)
 - [Deep Learning for Molecules and Materials Book](https://github.com/whitead/dmol-book/blob/main/README.md)
 - [Interpretable Machine Learning Book](https://christophm.github.io/interpretable-ml-book/)
